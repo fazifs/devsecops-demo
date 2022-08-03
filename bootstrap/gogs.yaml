@@ -1,0 +1,4 @@
+---
+- hosts: localhost
+  roles:
+    - role: '/root/faz/devsecops-demo/bootstrap/roles/ocp4-install-cicd'
